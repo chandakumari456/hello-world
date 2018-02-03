@@ -18,7 +18,7 @@ public class FrequencyOfDigit {
 		}
 		for(int k =0; k<freq.length;k++){
 			if(freq[k]!= 0){
-				System.out.println("no. of times "+ k+ " occour" + freq[k]);
+				System.out.println("no. of times "+ k+ " occur" + freq[k]);
 				
 			}
 			
